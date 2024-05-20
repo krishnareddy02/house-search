@@ -10,7 +10,7 @@
   - 
   - 
   - now activate the virtual environment by the command "workon data"
-  -in settings.py make changes the your database data connection
+  -in settings.py make changes the your database data connection https://github.com/krishnareddy02/house-search/issues/1#issue-2306792168
 
   -after activate the virtual environment run the command "python manage.py makemigrations"
   
